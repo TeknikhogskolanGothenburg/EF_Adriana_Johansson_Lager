@@ -1,0 +1,6 @@
+C:\Users\Adriana\Documents\Visual Studio 2017\Projects\Warehouse\WarehouseApp.Domain\bin\Debug\WarehouseApp.Domain.dll
+C:\Users\Adriana\Documents\Visual Studio 2017\Projects\Warehouse\WarehouseApp.Domain\bin\Debug\WarehouseApp.Domain.pdb
+C:\Users\Adriana\Documents\Visual Studio 2017\Projects\Warehouse\WarehouseApp.Domain\obj\Debug\WarehouseApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\Documents\Visual Studio 2017\Projects\Warehouse\WarehouseApp.Domain\obj\Debug\WarehouseApp.Domain.dll
+C:\Users\Adriana\Documents\Visual Studio 2017\Projects\Warehouse\WarehouseApp.Domain\obj\Debug\WarehouseApp.Domain.pdb
+C:\Users\Adriana\Documents\Visual Studio 2017\Projects\Warehouse\WarehouseApp.Domain\obj\Debug\WarehouseApp.Domain.csprojResolveAssemblyReference.cache

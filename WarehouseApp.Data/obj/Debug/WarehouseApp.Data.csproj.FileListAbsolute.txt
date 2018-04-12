@@ -1,0 +1,3 @@
+C:\Users\Adriana\Documents\Visual Studio 2017\Projects\Warehouse\WarehouseApp.Data\obj\Debug\WarehouseApp.Data.csprojResolveAssemblyReference.cache
+C:\Users\Adriana\Documents\Visual Studio 2017\Projects\Warehouse\WarehouseApp.Data\obj\Debug\WarehouseApp.Data.csproj.WarehouseApp.Data.exe.config
+C:\Users\Adriana\Documents\Visual Studio 2017\Projects\Warehouse\WarehouseApp.Data\obj\Debug\WarehouseApp.Data.csproj.CoreCompileInputs.cache
